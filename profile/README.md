@@ -12,7 +12,7 @@ Along our history we developed software in a broad range of vertical markets and
 
 ---
 
-Here are some highlights and customers and vertical markets from our rich history that made us who we are today.
+Here are some highlights, customers and vertical markets from our rich history that made us who we are today.
 
 **Industrial**
 
