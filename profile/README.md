@@ -1,12 +1,61 @@
-## Hi there 👋
 
-<!--
+ Under construction
 
-**Here are some ideas to get you started:**
+Network kernel bypass using eBPF/XDP and DPDK on Linux components, and Microsoft XDP for Windows
+Virtual NIC service running at Windows/Linux VMs in a cloud environment
+Integration tests coverage cost-efficiency optimization
+Proprietary protocols design and development
+Foundational project stack design and development
+System’s architecture, components, concerns and interoperation strategy definition
+Coding strategies and code base cost-efficiency optimization
+Versioning strategies definition
+Mentoring
+Project Management
+System architect for Remote Patient Monitoring System.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
+Trilogy Education/2U: Virtual campus system design and implementation
+Redesign and implementation porting the virtual campus software from client/server to distributed architecture
+Salesforce integration
+Payments systems integration
+Foundational project stack design and development
+System’s architecture, components, concerns and interoperation strategy definition
+Coding strategies and code base cost-efficiency optimization
+Versioning strategies definition
+Mentoring
+
+
+
+
+2004 – 2015
+
+Development of file and document management services for INVAP S.E.
+Design and development of gateway and security portal for INVAP S.E. Information Systems Department.
+Development of nuclear material control system for INVAP S.E., commissioned by Argentina's Nuclear Regulatory Authority.
+Design and development of a distributed video lottery system implemented in official lottery agencies
+Design and development of foundational technology extending the SOA platform used by the development team of INVAP S.E. Information Systems Department.
+Development of Chemical Reaction Cataloging and Search Engine for Novartis.
+Development of Chemical Test Management, Control, and Approval System for European Lead Factory (EU consortium).
+Development of a graphical library used by Oracle Australia’s development team for their product Learning 360 (educational platform; currently known as Oracle Student Learning).
+Design and development of a distributed video lottery system for PlaySoft SRL, currently operational in official lottery agencies.
+Mentoring in Java EE application development and SOA-based architecture for the INVAP S.E. Information Systems Department development team. Design and development of an SOA platform for internal application development at INVAP S.E. Information Systems Department.
+Delivered training on Java EE technologies, SOA architecture, and agile methodologies for INVAP S.E. Information Systems Department members.
+Development of automated processes on Salesforce.com platform for SteelBrick.
+Design and development of complete ERP system
+
+
+
+Developement of document management systems, digital signatures integration, and point-of-sale solutions.
+
+
+Development of predictive maintenance systems based on vibration analysis for E-Predict Corp.
+Development of mobile applications based on Windows CE for Microsoft Argentina, Hewlett Packard Argentina, and Meditec SRL (medical sales agent system).
+
+Development of a graphical library used by Oracle Australia’s development team for their product Learning 360 (educational platform; currently known as Oracle Student Learning).
+
+
+Other Highlights
+Co-winner of the Duke’s Choice Award at JavaOne 2008
+
