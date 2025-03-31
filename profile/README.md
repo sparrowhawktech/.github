@@ -10,6 +10,8 @@ He's an expert in distributed applications and server-side development, data mod
 
 Along our history we developed software in a broad range of vertical markets and technologies, always with a focus on quality and business goals.
 
+We have a strong partnering relationship with Emtech S.A. (https://www.emtechsa.com/) through which we work in different projects as part of the Emtech's ecosystem.
+
 ---
 
 Here are some highlights, customers and vertical markets from our rich history that made us who we are today.
