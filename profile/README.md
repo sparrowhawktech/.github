@@ -16,12 +16,12 @@ Here are some highlights, customers and vertical markets from our rich history t
 
 **Industrial**
 
-Development of predictive maintenance systems based on bearings vibration analysis for E-Predict Corp.
+* Predictive maintenance systems based on bearings vibration analysis for E-Predict Corp.
 
 **Field force automation**
-Mobile application based on Windows CE for Microsoft Argentina (hey we've got the first WCE SDK in the country here!)
-Mobile applications based on Windows CE Hewlett Packard Argentina
-Mobile applications based on Windows CE for the pharmaceutical industry
+  * Mobile application based on Windows CE for Microsoft Argentina (hey we've got the first WCE SDK in the country here!)
+  * Mobile applications based on Windows CE Hewlett Packard Argentina 
+  * Mobile applications based on Windows CE for the pharmaceutical industry
 
 **Enterprise & commerce**
 * Development of document management systems, digital signatures integration (remember the xmlsig days?) for Coca-Cola FEMSA Argentina and Mexico.
