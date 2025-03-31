@@ -1,61 +1,70 @@
 
- Under construction
+***Who we are***
 
-Network kernel bypass using eBPF/XDP and DPDK on Linux components, and Microsoft XDP for Windows
-Virtual NIC service running at Windows/Linux VMs in a cloud environment
-Integration tests coverage cost-efficiency optimization
-Proprietary protocols design and development
-Foundational project stack design and development
-System’s architecture, components, concerns and interoperation strategy definition
-Coding strategies and code base cost-efficiency optimization
-Versioning strategies definition
-Mentoring
-Project Management
-System architect for Remote Patient Monitoring System.
+Sparrowhawk Tech LLC operates since 2020. But our story starts in 1996.
 
+Sparrowhawk Tech is founded and owned by Gabriel Moreno.
 
+Gabriel is a 30+-years veteran of the software development industry with extensive experience engineering solutions and leading development teams serving different vertical markets such as pharmaceutical, gaming, industrial, nuclear, aerospace, enterprise-grade solutions, government and education.
+He's an expert in distributed applications and server-side development, data modeling, hardware integration development and software integration architecture.
 
+Along our history we developed software in a broad range of vertical markets and technologies, always with a focus on quality and business goals.
 
-Trilogy Education/2U: Virtual campus system design and implementation
-Redesign and implementation porting the virtual campus software from client/server to distributed architecture
-Salesforce integration
-Payments systems integration
-Foundational project stack design and development
-System’s architecture, components, concerns and interoperation strategy definition
-Coding strategies and code base cost-efficiency optimization
-Versioning strategies definition
-Mentoring
+---
 
+Here are some highlights and customers and vertical markets from our rich history that made us who we are today.
 
+**Industrial**
 
+Development of predictive maintenance systems based on bearings vibration analysis for E-Predict Corp.
 
-2004 – 2015
+**Field force automation**
+Mobile application based on Windows CE for Microsoft Argentina (hey we've got the first WCE SDK in the country here!)
+Mobile applications based on Windows CE Hewlett Packard Argentina
+Mobile applications based on Windows CE for the pharmaceutical industry
 
-Development of file and document management services for INVAP S.E.
-Design and development of gateway and security portal for INVAP S.E. Information Systems Department.
-Development of nuclear material control system for INVAP S.E., commissioned by Argentina's Nuclear Regulatory Authority.
-Design and development of a distributed video lottery system implemented in official lottery agencies
-Design and development of foundational technology extending the SOA platform used by the development team of INVAP S.E. Information Systems Department.
-Development of Chemical Reaction Cataloging and Search Engine for Novartis.
-Development of Chemical Test Management, Control, and Approval System for European Lead Factory (EU consortium).
-Development of a graphical library used by Oracle Australia’s development team for their product Learning 360 (educational platform; currently known as Oracle Student Learning).
-Design and development of a distributed video lottery system for PlaySoft SRL, currently operational in official lottery agencies.
-Mentoring in Java EE application development and SOA-based architecture for the INVAP S.E. Information Systems Department development team. Design and development of an SOA platform for internal application development at INVAP S.E. Information Systems Department.
-Delivered training on Java EE technologies, SOA architecture, and agile methodologies for INVAP S.E. Information Systems Department members.
-Development of automated processes on Salesforce.com platform for SteelBrick.
-Design and development of complete ERP system
+**Enterprise & commerce**
+* Development of document management systems, digital signatures integration (remember the xmlsig days?) for Coca-Cola FEMSA Argentina and Mexico.
+* Extensive development of Point of Sale systems
+* Design and development of complete ERP system, including business processes modeling, billing, stock management and accounting engine
+* Automated processes on Salesforce.com platform
 
+**Education**
 
+* Development of a graphical library used by Oracle Australia’s development team for their product Learning 360 (educational platform; currently known as Oracle Student Learning).
+    * Co-winner of the Duke’s Choice Award at JavaOne 2008 here!
+* Trilogy Education/2U: Virtual campus system design and implementation, including
+  * Redesign and implementation porting the virtual campus software from client/server to distributed architecture
+  * Salesforce integration
+  * Payments systems integration 
 
-Developement of document management systems, digital signatures integration, and point-of-sale solutions.
+**Chemical**
 
+* Development of Chemical Reaction Cataloging and Search Engine for Novartis through
+* Development of Chemical Test Management, Control, and Approval System for European Lead Factory (EU consortium).
 
-Development of predictive maintenance systems based on vibration analysis for E-Predict Corp.
-Development of mobile applications based on Windows CE for Microsoft Argentina, Hewlett Packard Argentina, and Meditec SRL (medical sales agent system).
+**Nuclear and aerospace**
 
-Development of a graphical library used by Oracle Australia’s development team for their product Learning 360 (educational platform; currently known as Oracle Student Learning).
+* File and document management services for INVAP S.E.
+* Gateway and security portal for INVAP S.E. Information Systems Department.
+* Nuclear material control system for INVAP S.E., commissioned by Argentina's Nuclear Regulatory Authority.
+* Foundational technology extending the SOA platform used by the development team of INVAP S.E. Information Systems Department.
+* Training on Java EE technologies, SOA architecture, and agile methodologies for INVAP S.E. Information Systems Department members.
 
+**Gaming**
 
-Other Highlights
-Co-winner of the Duke’s Choice Award at JavaOne 2008
+* Design and development of a distributed video lottery system implemented in official state lottery agencies
+* Automated on-prem gaming systems.
+
+**Networking and media**
+* High-performance, kernel bypass based networking solutions as proud part of the https://www.swxtch.io/ family
+
+---
+
+**Staff augmentation**
+
+Along and as a consequence of the trust built up through our work with them, it became the natural next step to search for  and provision 
+personnel required to support growth as their businesses evolved. We provide staff augmentation and personnel management with a twist: we care, because our customers are no strangers to us. Their success is our success.
+
+---
 
