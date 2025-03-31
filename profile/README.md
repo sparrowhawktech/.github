@@ -63,7 +63,7 @@ Here are some highlights, customers and vertical markets from our rich history t
 
 **Staff augmentation**
 
-Along the way and as a consequence of the trust built up qith our customers through our work with them, it became the natural next step to search for  and provision 
+Along the way and as a consequence of the trust built up with our customers through our work with them, it became the natural next step to search for  and provision 
 personnel required to support growth as their businesses evolved. We provide staff augmentation and personnel management with a twist: we care, because our customers are no strangers to us. Their success is our success.
 
 
