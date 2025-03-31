@@ -66,6 +66,15 @@ Mobile applications based on Windows CE for the pharmaceutical industry
 Along the way and as a consequence of the trust built up through our work with them, it became the natural next step to search for  and provision 
 personnel required to support growth as their businesses evolved. We provide staff augmentation and personnel management with a twist: we care, because our customers are no strangers to us. Their success is our success.
 
+
+---
+
+**Golang**
+
+Though we have a rich history developing different major languages, during the last years we specialized in leveraging Go for server-side and distributed applications
+development. The repositories here are just a sample of things we wanted (and are allowed) to share with you.
+
+
 ---
 
 Contact us at admin@sparrowhawkpatagonia.com
