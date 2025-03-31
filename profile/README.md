@@ -40,7 +40,7 @@ Here are some highlights, customers and vertical markets from our rich history t
 
 **Chemical**
 
-* Development of Chemical Reaction Cataloging and Search Engine for Novartis through
+* Development of Chemical Reaction Cataloging and Search Engine for Novartis
 * Development of Chemical Test Management, Control, and Approval System for European Lead Factory (EU consortium).
 
 **Nuclear and aerospace**
