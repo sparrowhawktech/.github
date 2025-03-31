@@ -72,7 +72,7 @@ personnel required to support growth as their businesses evolved. We provide sta
 **Golang**
 
 Though we have a rich history developing in different major languages, during the last years we specialized in leveraging Go for server-side and distributed applications
-development. The repositories here are just a sample of things we wanted (and are allowed) to share with you. Have fun with them!
+development. The repositories here are just are sample bits of things we wanted to share with you. Have fun with them!
 
 
 ---
